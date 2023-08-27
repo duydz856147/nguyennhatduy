@@ -1,0 +1,6 @@
+C:\Users\Duy\Documents\Zalo Received Files\congnghe.net\2033216377_nguyennhatduy\bai2\bin\Debug\bai2.exe.config
+C:\Users\Duy\Documents\Zalo Received Files\congnghe.net\2033216377_nguyennhatduy\bai2\bin\Debug\bai2.exe
+C:\Users\Duy\Documents\Zalo Received Files\congnghe.net\2033216377_nguyennhatduy\bai2\bin\Debug\bai2.pdb
+C:\Users\Duy\Documents\Zalo Received Files\congnghe.net\2033216377_nguyennhatduy\bai2\obj\Debug\bai2.csprojResolveAssemblyReference.cache
+C:\Users\Duy\Documents\Zalo Received Files\congnghe.net\2033216377_nguyennhatduy\bai2\obj\Debug\bai2.exe
+C:\Users\Duy\Documents\Zalo Received Files\congnghe.net\2033216377_nguyennhatduy\bai2\obj\Debug\bai2.pdb

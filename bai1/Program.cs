@@ -10,14 +10,14 @@ namespace bai1
     {
         static void Main(string[] args)
         {
-            Console.Write("Nhập tên tọa độ: ");
+            Console.Write("nhap ten toa do: ");
             string name = Console.ReadLine();
             a.SetName(name);
             toado a = new toado();
-            Console.Write("Nhập giá trị x: ");
+            Console.Write("nhap gia tri x: ");
             int x = int.Parse(Console.ReadLine());
             a.SetX(x);
-            Console.Write("Nhập giá trị y: ");
+            Console.Write("nhap gia tri y y: ");
             int y = int.Parse(Console.ReadLine());
             a.SetY(y);
             Console.WriteLine(a.ToString());
